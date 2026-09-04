@@ -1,18 +1,135 @@
-# 💫 About Me:
-👋 Hey, I'm Yash Gupta!<br><br>🎓 First-year Computer Science student at Newton School of Technology, Rishihood University<br><br>💡 I love building technology that solves real-world problems, not just classroom assignments.<br><br>🚀 I started exploring programming during school with Python, and since then I've been interested in turning ideas into working projects. Today, I'm learning HTML, CSS, JavaScript, AI, and modern development tools while building projects and participating in hackathons.<br><br>🏆 I've participated in multiple hackathons and competitions, and my team recently secured 1st place at Eureka. For me, every hackathon is an opportunity to learn, build, experiment, and improve.<br><br>🔍 I enjoy exploring:<br><br>- 🤖  now I am learning Artificial Intelligence<br><br><br>- 🚀 Hackathons & Innovation<br>- 🌍 Real-world problem solving<br>I am working on a project. If I succeed, I will definitely scale it. <br><br>🛠️ Tech I'm Working With<br><br>🐍 Python • 🌐 HTML • 🎨 CSS • <br>🤖 AI • 🔧 Git & GitHub • and exploring AI.<br><br>🌱 My Current Focus<br><br>I'm currently focused on learning by building — taking real-world problems, understanding them, and trying to create simple technology-based solutions.<br><br>«Build → Learn → Improve → Repeat 🔁»<br><br>I don't want to just collect certificates or learn technologies for the sake of learning them. I want to build things that actually make sense and solve problems.<br><br>🤝 Let's Collaborate<br><br>I'm always open to collaborating on:<br><br>- 🤖 AI-based projects<br>- 🌐 Web applications<br>- 🚀 Hackathon projects<br>- 💡 Innovative problem-solving ideas<br>- 🌍 Projects with real-world impact<br><br>📚 Currently Learning<br><br>- JavaScript<br>- CSS & Frontend Development<br>- AI <br>- Backend Development<br>- Better Software Engineering Practices<br><br>💬 Ask Me About<br><br>🤖 AI & technology ideas<br>💻 Beginner-friendly development<br>🚀 Hackathons<br>💡 Turning an idea into a project<br>🌍 Technology for real-world problems<br> and nayi-nayi cheezon ko explore karna<br><br>⚡ Fun Fact<br><br>I can spend hours thinking about “What if we build something for this problem?” 😄<br><br>A random problem can turn into a project idea pretty quickly in my head. 💡🚀<br><br>---<br><br>📫 Let's Connect<br><br>If you're also someone who loves building, experimenting, and learning, feel free to connect!<br><br>Keep Building. Keep Learning. 🚀
+<div align="center">👋 Hey, I'm Yash Gupta
 
+🚀 Builder • 💡 Problem Solver • 🤖 Tech Explorer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y4g_s7va) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/y4gs7va?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+technology+for+real-world+problems;Turning+ideas+into+working+projects;Exploring+AI+%26+Web+Development;Hackathons+%7C+Projects+%7C+Innovation;Build+%E2%86%92+Learn+%E2%86%92+Improve+%F0%9F%94%81" /><br/><a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github" />
+</a><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" /></div>---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gyash7995-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gyash7995-oss&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gyash7995-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🧑‍💻 About Me
+
+🎓 I'm a first-year Computer Science student at Newton School of Technology, Rishihood University.
+
+💡 I love building technology that solves real-world problems, not just classroom assignments.
+
+🐍 I started exploring programming with Python and gradually became interested in web development, AI and building practical projects.
+
+🚀 I enjoy taking an idea, understanding the problem behind it, and turning it into a working prototype.
+
+🏆 I actively participate in hackathons, competitions and innovation events because I enjoy learning by building.
+
+🥇 My team also secured 1st place at Eureka.
+
+«I don't just want to learn technology. I want to build with it. 🚀»
 
 ---
-[![](https://komarev.com/ghpvc/?username=gyash7995-oss&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚀 Currently Working On
+
+🤖 AI-powered solutions for real-world problems
+
+🌐 Web applications and interactive prototypes
+
+💡 Hackathon ideas and impact-driven projects
+
+🛠️ Exploring better ways to turn ideas into working products
+
+---
+
+🤝 Looking to Collaborate On
+
+I'm especially interested in collaborating on:
+
+🌐 Web Application Projects
+
+🚀 Hackathon Projects
+
+🤖 AI-based Solutions
+
+💡 Innovative Problem-Solving Ideas
+
+🌍 Projects that solve real-world problems
+
+«If you're building something interesting, let's build it together! 🤝»
+
+---
+
+🛠️ Tech Stack
+
+💻 Languages & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,html,css,cpp" />
+</p>🔧 Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>Python • HTML • CSS • Git & GitHub • Basic C++
+
+---
+
+⭐ Featured Projects
+
+🏗️ BuildGuard AI
+
+AI-powered construction material accountability system designed to track material movement and identify unexplained activity on construction sites.
+
+CCTV → Computer Vision → Movement Tracking → Risk Detection → Dashboard
+
+---
+
+🚁 Skylen
+
+AI-assisted disaster response platform designed to support emergency supply delivery, safe-zone identification, route planning and drone mission monitoring.
+
+Emergency → Prioritization → Safe Zone → Route → Drone Mission
+
+---
+
+📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gyash7995-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyash7995-oss&layout=compact&theme=tokyonight&hide_border=true" height="180" /></div>---
+
+🔥 GitHub Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /></div>---
+
+💬 Ask Me About
+
+🤖 AI & Technology
+
+💻 Programming & Projects
+
+🚀 Hackathons
+
+💡 Project Ideas
+
+🌍 Real-world problem solving
+
+🛠️ Building MVPs
+
+---
+
+⚡ Fun Fact
+
+«I can turn a random real-world problem into a project idea pretty quickly. 😂💡»
+
+I enjoy exploring “What if we build something for this?” 🚀
+
+---
+
+📫 Connect With Me
+
+<div align="center"><a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="https://www.linkedin.com/in/y4gs7va">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="https://instagram.com/y4g_s7va">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a></div>---
+
+<div align="center">🚀 Build. Learn. Improve. Repeat.
+
+Thanks for visiting my profile! ⭐
+
+</div>
