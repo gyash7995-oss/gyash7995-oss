@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hey, I'm Yash Gupta!<br><br>🎓 First-year Computer Science student at Newton School of Technology, Rishihood University<br><br>💡 I love building technology that solves real-world problems, not just classroom assignments.<br><br>🚀 I started exploring programming during school with Python, and since then I've been interested in turning ideas into working projects. Today, I'm learning HTML, CSS, JavaScript, AI, and modern development tools while building projects and participating in hackathons.<br><br>🏆 I've participated in multiple hackathons and competitions, and my team recently secured 1st place at Eureka. For me, every hackathon is an opportunity to learn, build, experiment, and improve.<br><br>🔍 I enjoy exploring:<br><br>- 🤖  now I am learning Artificial Intelligence<br><br><br>- 🚀 Hackathons & Innovation<br>- 🌍 Real-world problem solving<br>I am working on a project. If I succeed, I will definitely scale it. <br><br>🛠️ Tech I'm Working With<br><br>🐍 Python • 🌐 HTML • 🎨 CSS • <br>🤖 AI • 🔧 Git & GitHub • and exploring AI   main AI ko aise dekhta hoon, uski help se hum apne kaam ko bahut easy kar dein <br><br>🌱 My Current Focus<br><br>I'm currently focused on learning by building — taking real-world problems, understanding them, and trying to create simple technology-based solutions.<br><br>«Build → Learn → Improve → Repeat 🔁»<br><br>I don't want to just collect certificates or learn technologies for the sake of learning them. I want to build things that actually make sense and solve problems.<br><br>🤝 Let's Collaborate<br><br>I'm always open to collaborating on:<br><br>- 🤖 AI-based projects<br>- 🌐 Web applications<br>- 🚀 Hackathon projects<br>- 💡 Innovative problem-solving ideas<br>- 🌍 Projects with real-world impact<br><br>📚 Currently Learning<br><br>- JavaScript<br>- CSS & Frontend Development<br>- AI <br>- Backend Development<br>- Better Software Engineering Practices<br><br>💬 Ask Me About<br><br>🤖 AI & technology ideas<br>💻 Beginner-friendly development<br>🚀 Hackathons<br>💡 Turning an idea into a project<br>🌍 Technology for real-world problems<br> and nayi-nayi cheezon ko explore karna<br><br>⚡ Fun Fact<br><br>I can spend hours thinking about “What if we build something for this problem?” 😄<br><br>A random problem can turn into a project idea pretty quickly in my head. 💡🚀<br><br>---<br><br>📫 Let's Connect<br><br>If you're also someone who loves building, experimenting, and learning, feel free to connect!<br><br>Keep Building. Keep Learning. 🚀
 
-<!--
-**gyash7995-oss/gyash7995-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/y4g_s7va) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/y4gs7va?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=gyash7995-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=gyash7995-oss&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=gyash7995-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=gyash7995-oss&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
