@@ -118,7 +118,7 @@ I enjoy exploring:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/y4gs7va">
+<a href="https://www.linkedin.com/in/y4gs7va" target="_main">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
