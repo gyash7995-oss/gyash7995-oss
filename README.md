@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Yash Gupta
+#  Hey, I'm Yash Gupta
 
 ### 🚀 Builder • 💡 Problem Solver • 🤖 Tech Explorer
 
@@ -12,28 +12,28 @@
 
 ## 🧑‍💻 About Me
 
-🎓 I'm a first-year Computer Science student at **Newton School of Technology, Rishihood University**.
+ I'm a first-year Computer Science student at **Newton School of Technology, Rishihood University**.
 
-💡 I enjoy building technology that solves **real-world problems**, not just classroom assignments.
+ I enjoy building technology that solves **real-world problems**, not just classroom assignments.
 
-🐍 I started exploring programming with **Python** and gradually became interested in **web development, AI, and practical projects**.
+ I started exploring programming with **Python** and gradually became interested in **web development, AI, and practical projects**.
 
-🚀 I enjoy taking an idea, understanding the problem behind it, and turning it into a **working prototype**.
+ I enjoy taking an idea, understanding the problem behind it, and turning it into a **working prototype**.
 
-🏆 I participate in hackathons, competitions, and innovation activities because I enjoy **learning by building**.
+ I participate in hackathons, competitions, and innovation activities because I enjoy **learning by building**.
 
-🥇 My team also secured **1st place at Eureka**.
+ My team also secured **1st place at Eureka**.
 
 > *"I don't just want to learn technology. I want to build with it."* 🚀
 
 ---
 
-## 🚀 Currently Working On
+##  Currently Working On
 
-- 🤖 AI-powered solutions for real-world problems
-- 🌐 Web applications and interactive prototypes
-- 💡 Hackathon ideas and impact-driven projects
-- 🛠️ Turning ideas into practical working products
+-  AI-powered solutions for real-world problems
+-  Web applications and interactive prototypes
+-  Hackathon ideas and impact-driven projects
+-  Turning ideas into practical working products
 
 ---
 
@@ -41,11 +41,11 @@
 
 I'm especially interested in collaborating on:
 
-- 🌐 **Web Application Projects**
-- 🚀 **Hackathon Projects**
-- 🤖 **AI-based Solutions**
-- 💡 **Innovative Problem-Solving Ideas**
-- 🌍 **Projects that solve real-world problems**
+-  **Web Application Projects**
+-  **Hackathon Projects**
+-  **AI-based Solutions**
+-  **Innovative Problem-Solving Ideas**
+-  **Projects that solve real-world problems**
 
 > If you're building something interesting, let's build it together! 🤝
 
@@ -69,7 +69,7 @@ I'm especially interested in collaborating on:
 
 ## ⭐ Featured Projects
 
-### 🏗️ BuildGuard AI
+###  BuildGuard AI
 
 **AI-powered construction material accountability system** designed to track material movement and identify unexplained activity on construction sites.
 
@@ -79,7 +79,7 @@ I'm especially interested in collaborating on:
 
 ---
 
-### 🚁 Skylen
+###  Skylen
 
 **AI-assisted disaster response platform** designed to support emergency supply delivery, safe-zone identification, route planning, and drone mission monitoring.
 
@@ -91,12 +91,12 @@ I'm especially interested in collaborating on:
 
 ## 💬 Ask Me About
 
-- 🤖 **AI & Technology**
-- 💻 **Programming & Projects**
-- 🚀 **Hackathons**
-- 💡 **Project Ideas**
-- 🌍 **Real-world Problem Solving**
-- 🛠️ **Building MVPs**
+-  **AI & Technology**
+-  **Programming & Projects**
+-  **Hackathons**
+-  **Project Ideas**
+-  **Real-world Problem Solving**
+-  **Building MVPs**
 
 ---
 
@@ -132,7 +132,7 @@ I enjoy exploring:
 
 <div align="center">
 
-### 🚀 Build. Learn. Improve. Repeat.
+###  Build. Learn. Improve. Repeat.
 
 **Thanks for visiting my profile! ⭐**
 
